@@ -15,7 +15,7 @@ I am a passionate Computer Engineering student at Xavier Institute of Engineerin
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=flutter,python,unity,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,python,unity,postman,blender,dart,firebase)](https://skillicons.dev)
 
 
 
