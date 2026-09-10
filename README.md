@@ -19,7 +19,11 @@ Software engineer from Mumbai. I build AI products end to end — the model pipe
 
 🚀 &nbsp;**Latest releases**
 <!-- RELEASES:START -->
-<!-- RELEASES:END -->
+- [DevCLI v0.3.9](https://github.com/NesanSelvan/devcli/releases/tag/v0.3.9) — Aug 8, 2026
+- [DevCLI v0.3.8](https://github.com/NesanSelvan/devcli/releases/tag/v0.3.8) — Jul 31, 2026
+- [DevCLI v0.3.7](https://github.com/NesanSelvan/devcli/releases/tag/v0.3.7) — Jul 24, 2026
+- [DevCLI v0.3.6](https://github.com/NesanSelvan/devcli/releases/tag/v0.3.6) — Jul 16, 2026
+- [DevCLI v0.3.5](https://github.com/NesanSelvan/devcli/releases/tag/v0.3.5) — Jul 14, 2026<!-- RELEASES:END -->
 
 🔗 &nbsp;**Around the web**
 
