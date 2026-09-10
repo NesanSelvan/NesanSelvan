@@ -1,6 +1,10 @@
-### Hi there, I'm Nesan 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NesanSelvan/NesanSelvan/main/assets/header.svg" width="880" alt="Nesan Selvan — software engineer. Flutter, Python, Rust, Postgres, vision + LLM.">
+</p>
 
-Software engineer from Mumbai. I build AI products end to end — the model pipeline, the backend, the app, and the infrastructure under them.
+### Hi there 👋
+
+I build AI products end to end — the model pipeline, the backend, the app, and the infrastructure under them. The header up there is the same gesture my day job makes on a plate of food.
 
 - 🔭 &nbsp;I'm currently building **[NutriScan](https://nutriscan.app/)** — point a camera at your food and get the nutrition back. 100K+ downloads, 4.4★ on the App Store.
 - 🛠 &nbsp;On the side I ship **[DevCLI](https://github.com/NesanSelvan/devcli)** — a terminal built for the Claude Code era, with a side panel holding your prompt vault, agents, skills and MCP servers. Rust, Tauri, xterm.
