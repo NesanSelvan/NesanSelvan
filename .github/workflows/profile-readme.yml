@@ -25,7 +25,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "RELEASES"
-          feed_list: "https://github.com/NesanSelvan/devcli/releases.atom,https://github.com/NesanSelvan/Agents-Space/releases.atom"
+          feed_list: "https://github.com/NesanSelvan/devcli/releases.atom"
           max_post_count: 5
           template: "$newline- [$title]($url) — $date"
           date_format: "mmm d, yyyy"
