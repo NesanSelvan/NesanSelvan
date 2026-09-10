@@ -43,4 +43,10 @@ I build AI products end to end — the model pipeline, the backend, the app, and
 
 Python · Dart / Flutter · TypeScript · Rust · SQL · PostgreSQL · Supabase · Firebase · GCP · Docker · LlamaIndex
 
-<img src="https://github-readme-stats.vercel.app/api?username=NesanSelvan&show_icons=true&hide_border=true&count_private=true&theme=dark&hide_title=true" alt="Nesan's GitHub stats" width="450">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NesanSelvan/NesanSelvan/main/assets/contrib-scan.svg" width="880" alt="Contribution scan — 3,296 contributions in the last year">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NesanSelvan&show_icons=true&hide_border=true&count_private=true&theme=dark&hide_title=true" alt="GitHub stats" width="420">
+</p>
