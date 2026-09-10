@@ -14,6 +14,8 @@ I build AI products end to end — the model pipeline, the backend, the app, and
 - 📫 &nbsp;Reach me at [nesanselvan004@gmail.com](mailto:nesanselvan004@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/nesan-selvan-305669217/)
 - ⚡ &nbsp;Fun fact: I got into this building Unity games — there are still a few zombie shooters in my repo list
 
+<img src="https://raw.githubusercontent.com/NesanSelvan/NesanSelvan/main/assets/divider.svg" width="880" alt="">
+
 📝 &nbsp;**Latest blog posts**
 <!-- BLOG-POST-LIST:START -->
 - [Integrating Supabase MCP with Your OpenAI Agent Builder : A Step-by-Step Guide](https://medium.com/@nesan4selvan/integrating-supabase-mcp-with-your-openai-agent-builder-a-step-by-step-guide-2fe076e3d1e3?source=rss-212b7c29501d------2)
@@ -29,9 +31,13 @@ I build AI products end to end — the model pipeline, the backend, the app, and
 - [DevCLI v0.3.6](https://github.com/NesanSelvan/devcli/releases/tag/v0.3.6) — Jul 16, 2026
 - [DevCLI v0.3.5](https://github.com/NesanSelvan/devcli/releases/tag/v0.3.5) — Jul 14, 2026<!-- RELEASES:END -->
 
+<img src="https://raw.githubusercontent.com/NesanSelvan/NesanSelvan/main/assets/divider.svg" width="880" alt="">
+
 🔗 &nbsp;**Around the web**
 
 [Website](https://nesanselvan.netlify.app/) · [Medium](https://medium.com/@nesan4selvan) · [LinkedIn](https://www.linkedin.com/in/nesan-selvan-305669217/) · [X](https://x.com/NesanSelvan04)
+
+<img src="https://raw.githubusercontent.com/NesanSelvan/NesanSelvan/main/assets/divider.svg" width="880" alt="">
 
 🧰 &nbsp;**Tools I reach for**
 
