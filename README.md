@@ -3,7 +3,7 @@
 Software engineer from Mumbai. I build AI products end to end — the model pipeline, the backend, the app, and the infrastructure under them.
 
 - 🔭 &nbsp;I'm currently building **[NutriScan](https://nutriscan.app/)** — point a camera at your food and get the nutrition back. 100K+ downloads, 4.4★ on the App Store.
-- 🛠 &nbsp;On the side I ship **[DevCLI](https://github.com/NesanSelvan/devcli)**, a terminal built for the Claude Code era, and **[Agents Space](https://github.com/NesanSelvan/Agents-Space)**, an infinite canvas for running coding agents side by side.
+- 🛠 &nbsp;On the side I ship **[DevCLI](https://github.com/NesanSelvan/devcli)** — a terminal built for the Claude Code era, with a side panel holding your prompt vault, agents, skills and MCP servers. Rust, Tauri, xterm.
 - 📦 &nbsp;I publish Flutter packages — [wiggle_kit](https://pub.dev/packages/wiggle_kit), [tooltip_pro](https://pub.dev/packages/tooltip_pro), [haptic_feedback_pro](https://pub.dev/packages/haptic_feedback_pro)
 - 🌱 &nbsp;Currently learning Rust, mostly by writing desktop apps in Tauri
 - 💬 &nbsp;Ask me about **Flutter, Python, and getting vision/language models to behave in production**
