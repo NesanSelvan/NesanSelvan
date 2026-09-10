@@ -1,33 +1,32 @@
 ## Nesan Selvan
 
-Software engineer building AI products end to end — the model pipeline, the backend, the app, and the infrastructure under all three.
+Software engineer building AI products end to end — the model pipeline, the backend, the mobile app, and the infrastructure under all three.
 
-Currently at **[NutriScan](https://nutriscan.app/)**, leading full-stack development of a nutrition platform used by 20K+ people.
+### Now
 
-### Work
+Full-stack engineer at **[NutriScan](https://nutriscan.app/)** since June 2024, a nutrition platform used by 20K+ people.
 
-**Software Engineer, [NutriScan](https://nutriscan.app/)** · June 2024 – present
-Dual VLM/LLM pipeline for meal recognition and nutrient evaluation. Retrieval-based nutrition assistant answering 100+ questions a day. Flutter app on iOS and Android, Python services on Cloud Run, 99.8% uptime.
+- **Multimodal meal recognition** — a vision model reads the photo, a language model evaluates the nutrients against it, and the two are reconciled before anything reaches the user.
+- **Nutrition assistant** — retrieval over the user's own meal history, answering 100+ questions a day.
+- **The platform underneath** — Flutter on iOS and Android, Python services on Cloud Run, 99.8% uptime.
 
-Computer Engineering, Xavier Institute of Engineering, 2024.
+### Selected work
 
-### Selected projects
-
-**[Smart Bill Book](https://play.google.com/store/apps/details?id=com.smartbillbook.app)** — billing app that reads invoices with Gemini Vision and named-entity extraction. 91% field accuracy.
-
-**[Health Risk Predictor](https://github.com/NesanSelvan/health-risk-predictor)** — models for six health conditions trained on 33K NHANES records. 0.853 mean AUC.
-
-**[Multimodal product recognition](https://medium.com/@nesan4selvan/fine-tuning-qwen2-5-vl-with-unsloth-a-complete-guide-to-vision-language-model-training-7d2445374cc8)** — fine-tuned Qwen2.5-VL for product identification and counting. 89.3% accuracy.
-
-### Tools
-
-Python · Dart / Flutter · SQL · PostgreSQL · Supabase · Firebase · GCP · Azure · Docker · LlamaIndex · Unsloth
+| Project | What it is |
+| --- | --- |
+| **[Smart Bill Book](https://play.google.com/store/apps/details?id=com.smartbillbook.app)** | Billing app that reads invoices with Gemini Vision and entity extraction. 91% field accuracy. |
+| **[Health Risk Predictor](https://github.com/NesanSelvan/health-risk-predictor)** | Models for six health conditions, trained on 33K NHANES records. 0.853 mean AUC. |
+| **[Qwen2.5-VL fine-tune](https://medium.com/@nesan4selvan/fine-tuning-qwen2-5-vl-with-unsloth-a-complete-guide-to-vision-language-model-training-7d2445374cc8)** | Vision-language model tuned for product identification and counting. 89.3% accuracy. |
 
 ### Writing
 
 - [Fine-tuning Qwen2.5-VL with Unsloth](https://medium.com/@nesan4selvan/fine-tuning-qwen2-5-vl-with-unsloth-a-complete-guide-to-vision-language-model-training-7d2445374cc8)
 - [Personalised chatbots with LlamaIndex](https://medium.com/@nesan4selvan/personalized-chatbots-using-llamaindex-bridging-database-with-ai-08995c731c8f)
 - [In-app purchases in Flutter for Android](https://medium.com/stackademic/implementing-in-app-purchases-in-flutter-for-android-a-step-by-step-guide-72f7973ef8e0)
+
+### Tools
+
+Python · Dart / Flutter · SQL · PostgreSQL · Supabase · Firebase · GCP · Docker · LlamaIndex · Unsloth
 
 ### Elsewhere
 
