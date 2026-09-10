@@ -14,9 +14,13 @@ Full-stack engineer at **[NutriScan](https://nutriscan.app/)** since June 2024, 
 
 | Project | What it is |
 | --- | --- |
-| **[Smart Bill Book](https://play.google.com/store/apps/details?id=com.smartbillbook.app)** | Billing app that reads invoices with Gemini Vision and entity extraction. 91% field accuracy. |
-| **[Health Risk Predictor](https://github.com/NesanSelvan/health-risk-predictor)** | Models for six health conditions, trained on 33K NHANES records. 0.853 mean AUC. |
-| **[Qwen2.5-VL fine-tune](https://medium.com/@nesan4selvan/fine-tuning-qwen2-5-vl-with-unsloth-a-complete-guide-to-vision-language-model-training-7d2445374cc8)** | Vision-language model tuned for product identification and counting. 89.3% accuracy. |
+| **[DevCLI](https://github.com/NesanSelvan/devcli)** | A local-first terminal built for the Claude Code era — a real shell plus a side panel holding your prompt vault, agents, skills and MCP servers. Rust, Tauri, xterm. |
+| **[Agents Space](https://github.com/NesanSelvan/Agents-Space)** | Infinite canvas workspace for AI agents. Run terminals, edit files, and orchestrate coding agents side by side. TypeScript, MIT. |
+| **[Smart Bill Book](https://play.google.com/store/apps/details?id=com.smartbillbook.app)** | Billing app on the Play Store that reads invoices with Gemini Vision and entity extraction. 91% field accuracy. |
+
+### Flutter packages
+
+Published on pub.dev — [wiggle_kit](https://pub.dev/packages/wiggle_kit) (one-line wiggle animations) · [tooltip_pro](https://pub.dev/packages/tooltip_pro) (rich, glassmorphic tooltips) · [haptic_feedback_pro](https://pub.dev/packages/haptic_feedback_pro) (native haptics on iOS and Android)
 
 ### Writing
 
@@ -26,7 +30,7 @@ Full-stack engineer at **[NutriScan](https://nutriscan.app/)** since June 2024, 
 
 ### Tools
 
-Python · Dart / Flutter · SQL · PostgreSQL · Supabase · Firebase · GCP · Docker · LlamaIndex · Unsloth
+Python · Dart / Flutter · TypeScript · Rust · SQL · PostgreSQL · Supabase · Firebase · GCP · Docker · LlamaIndex
 
 ### Elsewhere
 
