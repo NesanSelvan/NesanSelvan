@@ -12,7 +12,10 @@ Software engineer from Mumbai. I build AI products end to end — the model pipe
 
 📝 &nbsp;**Latest blog posts**
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [Integrating Supabase MCP with Your OpenAI Agent Builder : A Step-by-Step Guide](https://medium.com/@nesan4selvan/integrating-supabase-mcp-with-your-openai-agent-builder-a-step-by-step-guide-2fe076e3d1e3?source=rss-212b7c29501d------2)
+- [Fine-Tuning Qwen2.5-VL with Unsloth: A Complete Guide to Vision-Language Model Training](https://medium.com/@nesan4selvan/fine-tuning-qwen2-5-vl-with-unsloth-a-complete-guide-to-vision-language-model-training-7d2445374cc8?source=rss-212b7c29501d------2)
+- [In-App Purchases in Flutter for Android](https://blog.stackademic.com/implementing-in-app-purchases-in-flutter-for-android-a-step-by-step-guide-72f7973ef8e0?source=rss-212b7c29501d------2)
+- [Personalized Chatbots Using LlamaIndex: Bridging Database with AI](https://medium.com/@nesan4selvan/personalized-chatbots-using-llamaindex-bridging-database-with-ai-08995c731c8f?source=rss-212b7c29501d------2)<!-- BLOG-POST-LIST:END -->
 
 🚀 &nbsp;**Latest releases**
 <!-- RELEASES:START -->
