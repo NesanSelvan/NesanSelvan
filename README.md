@@ -1,14 +1,16 @@
 ## Nesan Selvan
 
-Software engineer. I build **[NutriScan](https://nutriscan.app/)** end to end — the vision and language pipeline, the Python services, the Flutter app, and the infrastructure under all three.
+Software engineer. I built **[NutriScan](https://nutriscan.app/)** — all of it. The iOS and Android app, the backend services, the AI pipeline that reads a plate of food, and the cloud infrastructure the whole thing runs on.
 
 ## NutriScan
 
-**Point a camera at a plate, get the nutrition back.** Leading full-stack development since June 2024.
+**Point a camera at a plate, get the nutrition back.** June 2024 – present.
 
 [![Play Store](https://img.shields.io/badge/Google_Play-100K%2B_downloads-1a1a1a?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=app.nutriscan)
 [![App Store](https://img.shields.io/badge/App_Store-4.4★_·_432_ratings-1a1a1a?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/in/app/nutriscan-calorie-diet-plan/id6479204257)
 [![Site](https://img.shields.io/badge/nutriscan.app-1a1a1a?style=flat-square)](https://nutriscan.app/)
+
+Every technical layer of this product is mine — the Flutter app on both stores, the Python services behind it, the model pipeline that does the thinking, the Postgres schema under it, and the deploys, monitoring and release process that keep it up. What follows is what that actually meant to build.
 
 **Meal scan.** The photo goes to a vision model that pulls out every food item and its portion, then a language model turns that into full macros and micros and grades the meal A–E. It streams back over a WebSocket as it resolves, so nobody watches a spinner.
 
@@ -22,7 +24,9 @@ Software engineer. I build **[NutriScan](https://nutriscan.app/)** end to end �
 
 **The weekly leaderboard.** Rewritten after the first formula rewarded raw volume — 17 lunches a day beat five good meals. The score now caps spam, rewards distinct meal slots, and penalises eating past your macro targets.
 
-**The platform underneath.** FastAPI on Cloud Run, PostgreSQL on Supabase, Firebase, Apple Health and Google Fit sync, home-screen widgets, over-the-air Flutter updates, 12 languages. 99.8% uptime.
+**The platform underneath.** FastAPI services on Cloud Run, PostgreSQL on Supabase, Firebase, Apple Health and Google Fit sync, home-screen widgets on both platforms, 12 languages. 99.8% uptime.
+
+**Shipping it.** Every release to the App Store and Play Store, over-the-air Flutter updates for anything that can skip review, scheduled jobs for auto-logging and notifications, subscriptions and webhooks, crash and analytics pipelines. Nobody hands this off to another team — it is the same person who wrote the feature.
 
 ## Also building
 
