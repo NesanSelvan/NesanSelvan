@@ -20,12 +20,3 @@ jobs:
           feed_list: "https://medium.com/feed/@nesan4selvan"
           max_post_count: 5
           template: "$newline- [$title]($url)"
-
-      - name: Pull latest releases
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          comment_tag_name: "RELEASES"
-          feed_list: "https://github.com/NesanSelvan/devcli/releases.atom"
-          max_post_count: 5
-          template: "$newline- [$title]($url) — $date"
-          date_format: "mmm d, yyyy"
