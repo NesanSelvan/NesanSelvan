@@ -7,12 +7,12 @@
 
 ## 🌟 About Me
 
-I build AI products end to end — the model pipeline, the backend, the app, and the infrastructure under them. Most of my time goes to making models behave in production, where a wrong answer is a user's dinner.
+I build AI products end to end: the model pipeline, the backend, the app, and the infrastructure under them. Most of my time goes to making models behave in production, where a wrong answer is a user's dinner.
 
 Currently working on:
 
-- 🍽️ &nbsp;[NutriScan](https://nutriscan.app/) — point a camera at your food, get the nutrition back
-- 🖥️ &nbsp;[DevCLI](https://github.com/NesanSelvan/devcli) — a terminal built for the Claude Code era
+- 🍽️ &nbsp;[NutriScan](https://nutriscan.app/): point a camera at your food, get the nutrition back
+- 🖥️ &nbsp;[DevCLI](https://github.com/NesanSelvan/devcli): a terminal built for the Claude Code era
 - 📦 &nbsp;Flutter packages on [pub.dev](https://pub.dev/packages/wiggle_kit)
 - 🦀 &nbsp;Learning Rust, mostly by writing desktop apps in Tauri
 
@@ -20,30 +20,26 @@ Currently working on:
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nesan-selvan-305669217/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nesan4selvan)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NesanSelvan04)
-[![Website](https://img.shields.io/badge/Website-2DD4BF?style=for-the-badge&logo=googlechrome&logoColor=0D1117)](https://nesanselvan.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nesanselvan004@gmail.com)
+[Website](https://nesanselvan.netlify.app/) · [Medium](https://medium.com/@nesan4selvan) · [LinkedIn](https://www.linkedin.com/in/nesan-selvan-305669217/) · [X](https://x.com/NesanSelvan04) · [Email](mailto:nesanselvan004@gmail.com)
 
 ---
 
 ## ✨ Highlights
 
-- 🍽️ &nbsp;**[NutriScan](https://nutriscan.app/)** — AI nutrition tracking on iOS and Android
+- 🍽️ &nbsp;**[NutriScan](https://nutriscan.app/)**: AI nutrition tracking on iOS and Android
   - 100K+ downloads on Google Play · 4.4★ from 432 ratings on the App Store · 12 languages
-  - Multimodal meal scan — a vision model reads the plate, a language model resolves it into macros, micros and an A–E grade, streamed over a WebSocket
-  - NutriBites — retrieval assistant over your own meal history: text-to-SQL plus vector search
-  - Monika — a voice nutritionist running natively in the app
+  - Multimodal meal scan: a vision model reads the plate, a language model resolves it into macros, micros and an A to E grade, streamed over a WebSocket
+  - NutriBites: a retrieval assistant over your own meal history, text-to-SQL plus vector search
+  - Monika: a voice nutritionist running natively in the app
   - 28-day diet plans generated from BMR, TDEE and goal, with the grocery list to shop them
   - Apple Health and Google Fit sync, home-screen widgets, over-the-air Flutter updates
-- 🖥️ &nbsp;**[DevCLI](https://github.com/NesanSelvan/devcli)** — a real shell plus a side panel for your prompt vault, agents, skills and MCP servers
-  - Rust · Tauri · xterm — currently v0.3.9, macOS Apple Silicon
+- 🖥️ &nbsp;**[DevCLI](https://github.com/NesanSelvan/devcli)**: a real shell plus a side panel for your prompt vault, agents, skills and MCP servers
+  - Rust · Tauri · xterm. Currently v0.3.9, macOS Apple Silicon
 - 📦 &nbsp;**Published Flutter packages**
-  - [wiggle_kit](https://pub.dev/packages/wiggle_kit) — one-line wiggle animations on any widget
-  - [tooltip_pro](https://pub.dev/packages/tooltip_pro) — rich tooltips with blur, shadows and precise positioning
-  - [haptic_feedback_pro](https://pub.dev/packages/haptic_feedback_pro) — native haptics on iOS and Android
-- ✍️ &nbsp;**Writing** — vision-language fine-tuning, RAG, and Flutter guides on [Medium](https://medium.com/@nesan4selvan)
+  - [wiggle_kit](https://pub.dev/packages/wiggle_kit): one-line wiggle animations on any widget
+  - [tooltip_pro](https://pub.dev/packages/tooltip_pro): rich tooltips with blur, shadows and precise positioning
+  - [haptic_feedback_pro](https://pub.dev/packages/haptic_feedback_pro): native haptics on iOS and Android
+- ✍️ &nbsp;**Writing**: vision-language fine-tuning, RAG, and Flutter guides on [Medium](https://medium.com/@nesan4selvan)
 
 ---
 
