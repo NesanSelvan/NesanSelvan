@@ -20,7 +20,11 @@ Currently working on:
 
 ## 🔗 Connect with Me
 
-[Website](https://nesanselvan.netlify.app/) · [Medium](https://medium.com/@nesan4selvan) · [LinkedIn](https://www.linkedin.com/in/nesan-selvan-305669217/) · [X](https://x.com/NesanSelvan04) · [Email](mailto:nesanselvan004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nesan-selvan-305669217/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nesan4selvan)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NesanSelvan04)
+[![Website](https://img.shields.io/badge/Website-2DD4BF?style=for-the-badge&logo=googlechrome&logoColor=0D1117)](https://nesanselvan.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nesanselvan004@gmail.com)
 
 ---
 
