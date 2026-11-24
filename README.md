@@ -59,6 +59,7 @@ Currently working on:
 ## 📝 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is HealthifyMe Accurate? We Weighed an Indian Breakfast to Find Out](https://medium.com/@nesan4selvan/is-healthifyme-accurate-we-weighed-an-indian-breakfast-to-find-out-a263b651bcc6?source=rss-212b7c29501d------2)
 - [Integrating Supabase MCP with Your OpenAI Agent Builder : A Step-by-Step Guide](https://medium.com/@nesan4selvan/integrating-supabase-mcp-with-your-openai-agent-builder-a-step-by-step-guide-2fe076e3d1e3?source=rss-212b7c29501d------2)
 - [Fine-Tuning Qwen2.5-VL with Unsloth: A Complete Guide to Vision-Language Model Training](https://medium.com/@nesan4selvan/fine-tuning-qwen2-5-vl-with-unsloth-a-complete-guide-to-vision-language-model-training-7d2445374cc8?source=rss-212b7c29501d------2)
 - [In-App Purchases in Flutter for Android](https://blog.stackademic.com/implementing-in-app-purchases-in-flutter-for-android-a-step-by-step-guide-72f7973ef8e0?source=rss-212b7c29501d------2)
